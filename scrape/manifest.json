@@ -1,0 +1,37 @@
+{
+ "scraped_at": "2026-10-12",
+ "source": "https://cxyonly.fans/api/questions",
+ "method": "按题单目录树根节点分页拉取（per_page=200），无认证接口，限速 0.4s/请求",
+ "files": {
+  "complete": {
+   "api_total_expected": 5308,
+   "fetched": 5308,
+   "match": true,
+   "with_answer": 5308,
+   "with_explanation": 5308,
+   "size_mb": 16.14
+  },
+  "exam": {
+   "api_total_expected": 1335,
+   "fetched": 1335,
+   "match": true,
+   "with_answer": 1335,
+   "with_explanation": 1335,
+   "size_mb": 4.05
+  },
+  "mock": {
+   "api_total_expected": 724,
+   "fetched": 724,
+   "match": true,
+   "with_answer": 724,
+   "with_explanation": 724,
+   "size_mb": 2.52
+  },
+  "cross_list_overlap": {
+   "exam∩complete": 907,
+   "mock∩complete": 38,
+   "exam∩mock": 5
+  },
+  "grand_total_unique_questions": 6419
+ }
+}

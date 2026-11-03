@@ -1,0 +1,4875 @@
+{
+  "schema_version": 1,
+  "catalog": [
+    {
+      "treeCode": "calculus",
+      "label": "高等数学",
+      "chapters": [
+        {
+          "reviewId": "C01",
+          "name": "函数、极限与连续",
+          "items": [
+            {
+              "reviewId": "C01.01",
+              "conceptCode": "pgmath.c01-01",
+              "name": "函数的概念、定义域与表示法",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.02",
+              "conceptCode": "pgmath.c01-02",
+              "name": "函数的有界性",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.03",
+              "conceptCode": "pgmath.c01-03",
+              "name": "函数的单调性",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.04",
+              "conceptCode": "pgmath.c01-04",
+              "name": "函数的奇偶性",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.05",
+              "conceptCode": "pgmath.c01-05",
+              "name": "函数的周期性",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.06",
+              "conceptCode": "pgmath.c01-06",
+              "name": "复合函数",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.07",
+              "conceptCode": "pgmath.c01-07",
+              "name": "反函数",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.08",
+              "conceptCode": "pgmath.c01-08",
+              "name": "分段函数",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.09",
+              "conceptCode": "pgmath.c01-09",
+              "name": "隐函数",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.10",
+              "conceptCode": "pgmath.c01-10",
+              "name": "初等函数的概念",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.11",
+              "conceptCode": "pgmath.c01-11",
+              "name": "幂函数的性质与图形",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "按基本初等函数族细分学习目标；考纲在此统列基本初等函数，不是新增五项考纲条款。"
+            },
+            {
+              "reviewId": "C01.12",
+              "conceptCode": "pgmath.c01-12",
+              "name": "指数函数的性质与图形",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "按基本初等函数族细分学习目标；考纲在此统列基本初等函数，不是新增五项考纲条款。"
+            },
+            {
+              "reviewId": "C01.13",
+              "conceptCode": "pgmath.c01-13",
+              "name": "对数函数的性质与图形",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "按基本初等函数族细分学习目标；考纲在此统列基本初等函数，不是新增五项考纲条款。"
+            },
+            {
+              "reviewId": "C01.14",
+              "conceptCode": "pgmath.c01-14",
+              "name": "三角函数的性质与图形",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "按基本初等函数族细分学习目标；考纲在此统列基本初等函数，不是新增五项考纲条款。"
+            },
+            {
+              "reviewId": "C01.15",
+              "conceptCode": "pgmath.c01-15",
+              "name": "反三角函数的性质与图形",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "按基本初等函数族细分学习目标；考纲在此统列基本初等函数，不是新增五项考纲条款。"
+            },
+            {
+              "reviewId": "C01.16",
+              "conceptCode": "pgmath.c01-16",
+              "name": "应用问题中函数关系的建立",
+              "kind": "application",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.17",
+              "conceptCode": "pgmath.c01-17",
+              "name": "数列极限的定义",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.18",
+              "conceptCode": "pgmath.c01-18",
+              "name": "函数极限的定义",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.19",
+              "conceptCode": "pgmath.c01-19",
+              "name": "函数的左极限与右极限",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.20",
+              "conceptCode": "pgmath.c01-20",
+              "name": "双侧极限存在与左右极限的关系",
+              "kind": "criterion",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.21",
+              "conceptCode": "pgmath.c01-21",
+              "name": "极限的基本性质",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.22",
+              "conceptCode": "pgmath.c01-22",
+              "name": "极限的四则运算法则",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.23",
+              "conceptCode": "pgmath.c01-23",
+              "name": "夹逼准则",
+              "kind": "criterion",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.24",
+              "conceptCode": "pgmath.c01-24",
+              "name": "单调有界准则",
+              "kind": "criterion",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "数一数二要求掌握并会用；数三要求了解极限存在的两个准则，深度按考种原文区分。"
+            },
+            {
+              "reviewId": "C01.25",
+              "conceptCode": "pgmath.c01-25",
+              "name": "第一个重要极限及其应用（sin x/x）",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "原PDF公式为 x 趋于0时 sin x/x 趋于1；抽取文本公式排版损坏，发布正文时须对照原PDF。"
+            },
+            {
+              "reviewId": "C01.26",
+              "conceptCode": "pgmath.c01-26",
+              "name": "第二个重要极限及其应用（(1+1/x)^x）",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "原PDF公式为 x 趋于无穷时 (1+1/x)^x 趋于e；包含对应变量代换形式，不将OCR公式残片作为公式权威。"
+            },
+            {
+              "reviewId": "C01.27",
+              "conceptCode": "pgmath.c01-27",
+              "name": "无穷小量、无穷大量及其关系",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.28",
+              "conceptCode": "pgmath.c01-28",
+              "name": "无穷小量的性质",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.29",
+              "conceptCode": "pgmath.c01-29",
+              "name": "无穷小量的比较与阶",
+              "kind": "criterion",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.30",
+              "conceptCode": "pgmath.c01-30",
+              "name": "等价无穷小量替换求极限",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "正式正文须说明替换条件，尤其是加减中首项抵消；不只保留口诀。"
+            },
+            {
+              "reviewId": "C01.31",
+              "conceptCode": "pgmath.c01-31",
+              "name": "函数连续的定义与左右连续",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.32",
+              "conceptCode": "pgmath.c01-32",
+              "name": "函数间断点的分类与判别",
+              "kind": "criterion",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.33",
+              "conceptCode": "pgmath.c01-33",
+              "name": "连续函数的性质与初等函数的连续性",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.34",
+              "conceptCode": "pgmath.c01-34",
+              "name": "闭区间连续函数的有界性与最值定理",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C01.35",
+              "conceptCode": "pgmath.c01-35",
+              "name": "介值定理及零点存在性应用",
+              "kind": "application",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "零点存在性作为介值定理的明确应用细分，不另称考纲新增条款。"
+            },
+            {
+              "reviewId": "C01.36",
+              "conceptCode": "pgmath.c01-36",
+              "name": "递推数列的极限求法",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "作为数列极限与单调有界／夹逼准则的教学细分，经方法内容审阅纳入数一／数二／数三学习范围，非考纲单列题型。数一、数二要求会用准则求极限，数三要求了解准则。先证明收敛，再在连续等条件下由递推式求候选极限，并按初值和区间筛选；固定点方程本身不证明收敛。"
+            }
+          ]
+        },
+        {
+          "reviewId": "C02",
+          "name": "一元函数微分学及应用",
+          "items": [
+            {
+              "reviewId": "C02.01",
+              "conceptCode": "pgmath.c02-01",
+              "name": "导数的定义与可导性",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.02",
+              "conceptCode": "pgmath.c02-02",
+              "name": "导数与连续性的关系",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.03",
+              "conceptCode": "pgmath.c02-03",
+              "name": "导数的几何意义与切线、法线方程",
+              "kind": "application",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.04",
+              "conceptCode": "pgmath.c02-04",
+              "name": "导数的物理意义与变化率",
+              "kind": "application",
+              "exams": [
+                1,
+                2
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "数三对应条款明确经济意义；此处只记录物理意义的明列范围，不宣称其他考种不能使用变化率。"
+            },
+            {
+              "reviewId": "C02.05",
+              "conceptCode": "pgmath.c02-05",
+              "name": "导数的四则运算法则",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.06",
+              "conceptCode": "pgmath.c02-06",
+              "name": "基本初等函数的导数公式",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.07",
+              "conceptCode": "pgmath.c02-07",
+              "name": "复合函数的求导法则",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.08",
+              "conceptCode": "pgmath.c02-08",
+              "name": "反函数求导",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.09",
+              "conceptCode": "pgmath.c02-09",
+              "name": "隐函数求导",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.10",
+              "conceptCode": "pgmath.c02-10",
+              "name": "参数方程所确定的函数求导",
+              "kind": "method",
+              "exams": [
+                1,
+                2
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "数一数二明列；数三未单列此项，保留为未纳入其明列集合的工具，不据此宣称数三禁止使用。"
+            },
+            {
+              "reviewId": "C02.11",
+              "conceptCode": "pgmath.c02-11",
+              "name": "分段函数在分界点的求导与可导性判别",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.12",
+              "conceptCode": "pgmath.c02-12",
+              "name": "高阶导数的概念与计算",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.13",
+              "conceptCode": "pgmath.c02-13",
+              "name": "微分的概念及其与导数的关系",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.14",
+              "conceptCode": "pgmath.c02-14",
+              "name": "微分的四则运算与计算",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.15",
+              "conceptCode": "pgmath.c02-15",
+              "name": "一阶微分形式的不变性",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.16",
+              "conceptCode": "pgmath.c02-16",
+              "name": "罗尔定理及其应用",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.17",
+              "conceptCode": "pgmath.c02-17",
+              "name": "拉格朗日中值定理及其应用",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.18",
+              "conceptCode": "pgmath.c02-18",
+              "name": "柯西中值定理及其应用",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "三份2025转载均明确列出；数三PDF第3页第5条已目视复核。"
+            },
+            {
+              "reviewId": "C02.19",
+              "conceptCode": "pgmath.c02-19",
+              "name": "泰勒定理与泰勒公式",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "三份2025转载均明确列出；不与一般函数的泰勒级数展开充分必要条件混同。"
+            },
+            {
+              "reviewId": "C02.20",
+              "conceptCode": "pgmath.c02-20",
+              "name": "洛必达法则求未定式极限",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.21",
+              "conceptCode": "pgmath.c02-21",
+              "name": "泰勒展开求极限",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "三卷2025考纲均要求理解并会用泰勒定理；此项为有限阶泰勒公式在求极限中的教学细分，非考纲单列的新要求。核对展开点和可微条件，展开到消项后的首个非零阶并控制余项，确认分母首项非零；不包含无限泰勒级数或将数二纳入无穷级数范围。"
+            },
+            {
+              "reviewId": "C02.22",
+              "conceptCode": "pgmath.c02-22",
+              "name": "用导数判别函数单调性",
+              "kind": "criterion",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.23",
+              "conceptCode": "pgmath.c02-23",
+              "name": "函数极值的概念与导数判别",
+              "kind": "criterion",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.24",
+              "conceptCode": "pgmath.c02-24",
+              "name": "函数的最大值、最小值及优化应用",
+              "kind": "application",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.25",
+              "conceptCode": "pgmath.c02-25",
+              "name": "函数图形的凹凸性判别",
+              "kind": "criterion",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.26",
+              "conceptCode": "pgmath.c02-26",
+              "name": "拐点的判别与计算",
+              "kind": "criterion",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.27",
+              "conceptCode": "pgmath.c02-27",
+              "name": "水平、铅直与斜渐近线",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.28",
+              "conceptCode": "pgmath.c02-28",
+              "name": "利用导数描绘函数图形",
+              "kind": "application",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.29",
+              "conceptCode": "pgmath.c02-29",
+              "name": "弧微分",
+              "kind": "concept",
+              "exams": [
+                1,
+                2
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C02.30",
+              "conceptCode": "pgmath.c02-30",
+              "name": "曲率、曲率圆与曲率半径",
+              "kind": "application",
+              "exams": [
+                1,
+                2
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "曲率与半径须能计算；数三未在此单列，不能给其自动继承本章全部内容。"
+            },
+            {
+              "reviewId": "C02.31",
+              "conceptCode": "pgmath.c02-31",
+              "name": "经济量的边际分析",
+              "kind": "application",
+              "exams": [
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "成本、收入、利润等具体经济量作为正文例子，范围依据为数三明列经济意义。"
+            },
+            {
+              "reviewId": "C02.32",
+              "conceptCode": "pgmath.c02-32",
+              "name": "经济量的弹性分析",
+              "kind": "application",
+              "exams": [
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "reviewId": "C03",
+          "name": "一元函数积分学及应用",
+          "items": [
+            {
+              "reviewId": "C03.01",
+              "conceptCode": "pgmath.c03-01",
+              "name": "原函数的概念",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.02",
+              "conceptCode": "pgmath.c03-02",
+              "name": "不定积分的概念与基本性质",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.03",
+              "conceptCode": "pgmath.c03-03",
+              "name": "基本积分公式",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.04",
+              "conceptCode": "pgmath.c03-04",
+              "name": "定积分的概念",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.05",
+              "conceptCode": "pgmath.c03-05",
+              "name": "定积分的基本性质",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.06",
+              "conceptCode": "pgmath.c03-06",
+              "name": "定积分中值定理",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.07",
+              "conceptCode": "pgmath.c03-07",
+              "name": "积分上限函数及其求导",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.08",
+              "conceptCode": "pgmath.c03-08",
+              "name": "牛顿—莱布尼茨公式",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.09",
+              "conceptCode": "pgmath.c03-09",
+              "name": "换元积分法",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "同一方法包含不定积分与定积分；定积分部分须交代上下限与换元条件。"
+            },
+            {
+              "reviewId": "C03.10",
+              "conceptCode": "pgmath.c03-10",
+              "name": "分部积分法",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.11",
+              "conceptCode": "pgmath.c03-11",
+              "name": "有理函数积分",
+              "kind": "method",
+              "exams": [
+                1,
+                2
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "数一数二明列；数三未单列具体函数类型，不等于此方法对数三不可用。"
+            },
+            {
+              "reviewId": "C03.12",
+              "conceptCode": "pgmath.c03-12",
+              "name": "三角函数有理式积分",
+              "kind": "method",
+              "exams": [
+                1,
+                2
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.13",
+              "conceptCode": "pgmath.c03-13",
+              "name": "简单无理函数积分",
+              "kind": "method",
+              "exams": [
+                1,
+                2
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.14",
+              "conceptCode": "pgmath.c03-14",
+              "name": "无穷区间上的反常积分",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "作为反常积分概念的标准类型细分。"
+            },
+            {
+              "reviewId": "C03.15",
+              "conceptCode": "pgmath.c03-15",
+              "name": "无界函数的反常积分",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "作为反常积分概念的标准类型细分；与反常二重积分区分。"
+            },
+            {
+              "reviewId": "C03.16",
+              "conceptCode": "pgmath.c03-16",
+              "name": "反常积分的收敛比较判别",
+              "kind": "criterion",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.17",
+              "conceptCode": "pgmath.c03-17",
+              "name": "反常积分的计算",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.18",
+              "conceptCode": "pgmath.c03-18",
+              "name": "平面图形面积的积分计算",
+              "kind": "application",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.19",
+              "conceptCode": "pgmath.c03-19",
+              "name": "平面曲线弧长的积分计算",
+              "kind": "application",
+              "exams": [
+                1,
+                2
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.20",
+              "conceptCode": "pgmath.c03-20",
+              "name": "旋转体体积的积分计算",
+              "kind": "application",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.21",
+              "conceptCode": "pgmath.c03-21",
+              "name": "旋转体侧面积的积分计算",
+              "kind": "application",
+              "exams": [
+                1,
+                2
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.22",
+              "conceptCode": "pgmath.c03-22",
+              "name": "已知平行截面面积的立体体积",
+              "kind": "application",
+              "exams": [
+                1,
+                2
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.23",
+              "conceptCode": "pgmath.c03-23",
+              "name": "变力做功的定积分模型",
+              "kind": "application",
+              "exams": [
+                1,
+                2
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.24",
+              "conceptCode": "pgmath.c03-24",
+              "name": "引力的定积分模型",
+              "kind": "application",
+              "exams": [
+                1,
+                2
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.25",
+              "conceptCode": "pgmath.c03-25",
+              "name": "液体压力的定积分模型",
+              "kind": "application",
+              "exams": [
+                1,
+                2
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.26",
+              "conceptCode": "pgmath.c03-26",
+              "name": "质心与形心的定积分模型",
+              "kind": "application",
+              "exams": [
+                1,
+                2
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.27",
+              "conceptCode": "pgmath.c03-27",
+              "name": "函数平均值的积分计算",
+              "kind": "application",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C03.28",
+              "conceptCode": "pgmath.c03-28",
+              "name": "定积分的经济应用",
+              "kind": "application",
+              "exams": [
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "reviewId": "C04",
+          "name": "常微分方程与差分方程",
+          "items": [
+            {
+              "reviewId": "C04.01",
+              "conceptCode": "pgmath.c04-01",
+              "name": "微分方程及其阶的概念",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C04.02",
+              "conceptCode": "pgmath.c04-02",
+              "name": "微分方程的解、通解、特解与初始条件",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C04.03",
+              "conceptCode": "pgmath.c04-03",
+              "name": "变量可分离的一阶微分方程",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C04.04",
+              "conceptCode": "pgmath.c04-04",
+              "name": "一阶齐次微分方程",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C04.05",
+              "conceptCode": "pgmath.c04-05",
+              "name": "一阶线性微分方程",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C04.06",
+              "conceptCode": "pgmath.c04-06",
+              "name": "伯努利方程",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C04.07",
+              "conceptCode": "pgmath.c04-07",
+              "name": "全微分方程",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C04.08",
+              "conceptCode": "pgmath.c04-08",
+              "name": "简单变量代换求微分方程",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C04.09",
+              "conceptCode": "pgmath.c04-09",
+              "name": "可降阶高阶微分方程",
+              "kind": "method",
+              "exams": [
+                1,
+                2
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "对应 y^(n)=f(x)、y″=f(x,y′)、y″=f(y,y′) 三类明列形式；不是所有高阶方程都纳入。"
+            },
+            {
+              "reviewId": "C04.10",
+              "conceptCode": "pgmath.c04-10",
+              "name": "线性微分方程解的性质与结构",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C04.11",
+              "conceptCode": "pgmath.c04-11",
+              "name": "二阶常系数齐次线性微分方程",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C04.12",
+              "conceptCode": "pgmath.c04-12",
+              "name": "某些高于二阶的常系数齐次线性微分方程",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "数三考试要求第4条明确列出，不能仅看其内容摘要中二阶的表述而遗漏。"
+            },
+            {
+              "reviewId": "C04.13",
+              "conceptCode": "pgmath.c04-13",
+              "name": "二阶常系数非齐次线性微分方程",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "自由项限原文所列多项式、指数、正弦、余弦及其和与积；不泛化到任意自由项。"
+            },
+            {
+              "reviewId": "C04.14",
+              "conceptCode": "pgmath.c04-14",
+              "name": "欧拉方程",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C04.15",
+              "conceptCode": "pgmath.c04-15",
+              "name": "微分方程的建模与简单应用",
+              "kind": "application",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "数三明列经济应用；数一数二依简单应用原文，不强行继承全部经济题型。"
+            },
+            {
+              "reviewId": "C04.16",
+              "conceptCode": "pgmath.c04-16",
+              "name": "差分与差分方程的概念",
+              "kind": "concept",
+              "exams": [
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C04.17",
+              "conceptCode": "pgmath.c04-17",
+              "name": "差分方程的通解与特解",
+              "kind": "concept",
+              "exams": [
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C04.18",
+              "conceptCode": "pgmath.c04-18",
+              "name": "一阶常系数线性差分方程",
+              "kind": "method",
+              "exams": [
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C04.19",
+              "conceptCode": "pgmath.c04-19",
+              "name": "微分方程的经济应用",
+              "kind": "application",
+              "exams": [
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "reviewId": "C05",
+          "name": "空间解析几何与向量代数",
+          "items": [
+            {
+              "reviewId": "C05.01",
+              "conceptCode": "pgmath.c05-01",
+              "name": "空间直角坐标系与空间向量",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C05.02",
+              "conceptCode": "pgmath.c05-02",
+              "name": "空间向量的坐标表示与线性运算",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C05.03",
+              "conceptCode": "pgmath.c05-03",
+              "name": "单位向量、方向数与方向余弦",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C05.04",
+              "conceptCode": "pgmath.c05-04",
+              "name": "向量的数量积与两向量夹角",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C05.05",
+              "conceptCode": "pgmath.c05-05",
+              "name": "向量的向量积",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C05.06",
+              "conceptCode": "pgmath.c05-06",
+              "name": "向量的混合积",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C05.07",
+              "conceptCode": "pgmath.c05-07",
+              "name": "空间向量平行与垂直的判别",
+              "kind": "criterion",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C05.08",
+              "conceptCode": "pgmath.c05-08",
+              "name": "平面方程及其求法",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C05.09",
+              "conceptCode": "pgmath.c05-09",
+              "name": "空间直线方程及其求法",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C05.10",
+              "conceptCode": "pgmath.c05-10",
+              "name": "平面与平面的夹角和位置关系",
+              "kind": "criterion",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C05.11",
+              "conceptCode": "pgmath.c05-11",
+              "name": "平面与直线的夹角和位置关系",
+              "kind": "criterion",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C05.12",
+              "conceptCode": "pgmath.c05-12",
+              "name": "直线与直线的夹角和位置关系",
+              "kind": "criterion",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C05.13",
+              "conceptCode": "pgmath.c05-13",
+              "name": "点到空间直线的距离",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C05.14",
+              "conceptCode": "pgmath.c05-14",
+              "name": "点到平面的距离",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C05.15",
+              "conceptCode": "pgmath.c05-15",
+              "name": "空间曲面方程的概念",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C05.16",
+              "conceptCode": "pgmath.c05-16",
+              "name": "球面方程",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C05.17",
+              "conceptCode": "pgmath.c05-17",
+              "name": "常用二次曲面的方程与图形",
+              "kind": "property",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C05.18",
+              "conceptCode": "pgmath.c05-18",
+              "name": "柱面方程的建立",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C05.19",
+              "conceptCode": "pgmath.c05-19",
+              "name": "旋转曲面方程的建立",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C05.20",
+              "conceptCode": "pgmath.c05-20",
+              "name": "空间曲线的参数方程与一般方程",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C05.21",
+              "conceptCode": "pgmath.c05-21",
+              "name": "空间曲线在坐标平面上的投影",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "reviewId": "C06",
+          "name": "多元函数微分学及应用",
+          "items": [
+            {
+              "reviewId": "C06.01",
+              "conceptCode": "pgmath.c06-01",
+              "name": "多元函数的概念与二元函数的几何意义",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C06.02",
+              "conceptCode": "pgmath.c06-02",
+              "name": "二元函数极限",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C06.03",
+              "conceptCode": "pgmath.c06-03",
+              "name": "二元函数连续性",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C06.04",
+              "conceptCode": "pgmath.c06-04",
+              "name": "有界闭区域上二元连续函数的性质",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "须联读本页连续函数的性质条款；不将一般拓扑空间定理作为前置。 共享考种条款以二元函数为范围，不推广为任意维的一般拓扑定理。"
+            },
+            {
+              "reviewId": "C06.05",
+              "conceptCode": "pgmath.c06-05",
+              "name": "偏导数的概念与计算",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C06.06",
+              "conceptCode": "pgmath.c06-06",
+              "name": "二阶偏导数与混合偏导数的计算",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "混合偏导数属于二阶偏导数的教学细分，不泛化到任意高阶要求。"
+            },
+            {
+              "reviewId": "C06.07",
+              "conceptCode": "pgmath.c06-07",
+              "name": "全微分的概念与计算",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C06.08",
+              "conceptCode": "pgmath.c06-08",
+              "name": "全微分存在的必要条件与充分条件",
+              "kind": "criterion",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "数一明确独立列出；数二数三全微分概念仍可能涉及这些基础条件，不据明列缺失作禁止结论。"
+            },
+            {
+              "reviewId": "C06.09",
+              "conceptCode": "pgmath.c06-09",
+              "name": "全微分形式的不变性",
+              "kind": "property",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C06.10",
+              "conceptCode": "pgmath.c06-10",
+              "name": "多元复合函数的一阶与二阶偏导数",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C06.11",
+              "conceptCode": "pgmath.c06-11",
+              "name": "隐函数存在定理",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C06.12",
+              "conceptCode": "pgmath.c06-12",
+              "name": "多元隐函数的偏导数",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C06.13",
+              "conceptCode": "pgmath.c06-13",
+              "name": "方向导数的概念与计算",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C06.14",
+              "conceptCode": "pgmath.c06-14",
+              "name": "梯度的概念、计算与方向关系",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C06.15",
+              "conceptCode": "pgmath.c06-15",
+              "name": "空间曲线的切线与法平面",
+              "kind": "application",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C06.16",
+              "conceptCode": "pgmath.c06-16",
+              "name": "曲面的切平面与法线",
+              "kind": "application",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C06.17",
+              "conceptCode": "pgmath.c06-17",
+              "name": "二元函数的二阶泰勒公式",
+              "kind": "property",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C06.18",
+              "conceptCode": "pgmath.c06-18",
+              "name": "多元函数极值的概念与必要条件",
+              "kind": "criterion",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C06.19",
+              "conceptCode": "pgmath.c06-19",
+              "name": "二元函数极值的充分条件与求法",
+              "kind": "criterion",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C06.20",
+              "conceptCode": "pgmath.c06-20",
+              "name": "条件极值与拉格朗日乘数法",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C06.21",
+              "conceptCode": "pgmath.c06-21",
+              "name": "多元函数的最大值、最小值及简单应用",
+              "kind": "application",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "reviewId": "C07",
+          "name": "重积分",
+          "items": [
+            {
+              "reviewId": "C07.01",
+              "conceptCode": "pgmath.c07-01",
+              "name": "二重积分的概念",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C07.02",
+              "conceptCode": "pgmath.c07-02",
+              "name": "二重积分的基本性质",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C07.03",
+              "conceptCode": "pgmath.c07-03",
+              "name": "二重积分中值定理",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C07.04",
+              "conceptCode": "pgmath.c07-04",
+              "name": "直角坐标下二重积分的计算",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C07.05",
+              "conceptCode": "pgmath.c07-05",
+              "name": "二重积分的积分区域描述与积分次序交换",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "为直角坐标计算的教学细分；每次换序必须核对区域与上下限，不是单独新增考纲条款。"
+            },
+            {
+              "reviewId": "C07.06",
+              "conceptCode": "pgmath.c07-06",
+              "name": "极坐标下二重积分的计算",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C07.07",
+              "conceptCode": "pgmath.c07-07",
+              "name": "无界区域上简单的反常二重积分",
+              "kind": "method",
+              "exams": [
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "数三PDF第5页明确列出，不因数一范围较广就自动给数一添加此条。"
+            },
+            {
+              "reviewId": "C07.08",
+              "conceptCode": "pgmath.c07-08",
+              "name": "三重积分的概念与性质",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C07.09",
+              "conceptCode": "pgmath.c07-09",
+              "name": "直角坐标下三重积分的计算",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C07.10",
+              "conceptCode": "pgmath.c07-10",
+              "name": "柱面坐标下三重积分的计算",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C07.11",
+              "conceptCode": "pgmath.c07-11",
+              "name": "球面坐标下三重积分的计算",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C07.12",
+              "conceptCode": "pgmath.c07-12",
+              "name": "重积分的面积与体积应用",
+              "kind": "application",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "数一独立应用条款；不宣称数二数三的二重积分不能用面积几何解释。"
+            },
+            {
+              "reviewId": "C07.13",
+              "conceptCode": "pgmath.c07-13",
+              "name": "重积分的质量、质心与形心应用",
+              "kind": "application",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C07.14",
+              "conceptCode": "pgmath.c07-14",
+              "name": "重积分的转动惯量与引力应用",
+              "kind": "application",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "reviewId": "C08",
+          "name": "曲线积分与曲面积分",
+          "items": [
+            {
+              "reviewId": "C08.01",
+              "conceptCode": "pgmath.c08-01",
+              "name": "第一类曲线积分的概念与性质",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C08.02",
+              "conceptCode": "pgmath.c08-02",
+              "name": "第一类曲线积分的计算",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C08.03",
+              "conceptCode": "pgmath.c08-03",
+              "name": "第二类曲线积分的概念、方向与性质",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C08.04",
+              "conceptCode": "pgmath.c08-04",
+              "name": "第二类曲线积分的计算",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C08.05",
+              "conceptCode": "pgmath.c08-05",
+              "name": "两类曲线积分的关系",
+              "kind": "property",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C08.06",
+              "conceptCode": "pgmath.c08-06",
+              "name": "格林公式及其应用条件",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C08.07",
+              "conceptCode": "pgmath.c08-07",
+              "name": "平面曲线积分与路径无关的判别",
+              "kind": "criterion",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C08.08",
+              "conceptCode": "pgmath.c08-08",
+              "name": "二元函数全微分的原函数",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C08.09",
+              "conceptCode": "pgmath.c08-09",
+              "name": "第一类曲面积分的概念与性质",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C08.10",
+              "conceptCode": "pgmath.c08-10",
+              "name": "第一类曲面积分的计算",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C08.11",
+              "conceptCode": "pgmath.c08-11",
+              "name": "第二类曲面积分的概念、定向与性质",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C08.12",
+              "conceptCode": "pgmath.c08-12",
+              "name": "第二类曲面积分的计算",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C08.13",
+              "conceptCode": "pgmath.c08-13",
+              "name": "两类曲面积分的关系",
+              "kind": "property",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C08.14",
+              "conceptCode": "pgmath.c08-14",
+              "name": "高斯公式及曲面积分计算",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C08.15",
+              "conceptCode": "pgmath.c08-15",
+              "name": "斯托克斯公式及曲线积分计算",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C08.16",
+              "conceptCode": "pgmath.c08-16",
+              "name": "散度的概念与计算",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C08.17",
+              "conceptCode": "pgmath.c08-17",
+              "name": "旋度的概念与计算",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C08.18",
+              "conceptCode": "pgmath.c08-18",
+              "name": "曲线、曲面的长度面积与质量计算",
+              "kind": "application",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "采用第一类积分建立模型；具体曲线与曲面的条件在正文分区，不把几何对象混同。"
+            },
+            {
+              "reviewId": "C08.19",
+              "conceptCode": "pgmath.c08-19",
+              "name": "线、面分布的质心与形心",
+              "kind": "application",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "按原应用条款作教学细分；与重积分的区域分布模型区分，保留线密度、面密度和均匀分布条件。"
+            },
+            {
+              "reviewId": "C08.20",
+              "conceptCode": "pgmath.c08-20",
+              "name": "线、面分布的转动惯量与引力",
+              "kind": "application",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "按原应用条款作教学细分；不引入流形、张量或其他超出基础模型的前置理论。"
+            },
+            {
+              "reviewId": "C08.21",
+              "conceptCode": "pgmath.c08-21",
+              "name": "曲线积分的做功应用",
+              "kind": "application",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C08.22",
+              "conceptCode": "pgmath.c08-22",
+              "name": "曲面积分的流量应用",
+              "kind": "application",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "reviewId": "C09",
+          "name": "无穷级数",
+          "items": [
+            {
+              "reviewId": "C09.01",
+              "conceptCode": "pgmath.c09-01",
+              "name": "常数项级数的收敛、发散与和",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.02",
+              "conceptCode": "pgmath.c09-02",
+              "name": "级数的基本性质",
+              "kind": "property",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.03",
+              "conceptCode": "pgmath.c09-03",
+              "name": "级数收敛的必要条件",
+              "kind": "criterion",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.04",
+              "conceptCode": "pgmath.c09-04",
+              "name": "几何级数的收敛性与和",
+              "kind": "criterion",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.05",
+              "conceptCode": "pgmath.c09-05",
+              "name": "p级数的收敛性",
+              "kind": "criterion",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.06",
+              "conceptCode": "pgmath.c09-06",
+              "name": "正项级数的比较判别法",
+              "kind": "criterion",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.07",
+              "conceptCode": "pgmath.c09-07",
+              "name": "正项级数的比值判别法",
+              "kind": "criterion",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.08",
+              "conceptCode": "pgmath.c09-08",
+              "name": "正项级数的根值判别法",
+              "kind": "criterion",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.09",
+              "conceptCode": "pgmath.c09-09",
+              "name": "正项级数的积分判别法",
+              "kind": "criterion",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.10",
+              "conceptCode": "pgmath.c09-10",
+              "name": "交错级数与莱布尼茨判别法",
+              "kind": "criterion",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.11",
+              "conceptCode": "pgmath.c09-11",
+              "name": "绝对收敛与条件收敛",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.12",
+              "conceptCode": "pgmath.c09-12",
+              "name": "绝对收敛与收敛的关系",
+              "kind": "property",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.13",
+              "conceptCode": "pgmath.c09-13",
+              "name": "一般函数项级数的收敛域与和函数",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "数三明确幂级数相关要求，但未独立列一般函数项级数，不从幂级数自动扩张范围。"
+            },
+            {
+              "reviewId": "C09.14",
+              "conceptCode": "pgmath.c09-14",
+              "name": "幂级数的概念",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.15",
+              "conceptCode": "pgmath.c09-15",
+              "name": "幂级数的收敛半径",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.16",
+              "conceptCode": "pgmath.c09-16",
+              "name": "幂级数的收敛区间、端点与收敛域",
+              "kind": "criterion",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "端点需独立审敛；收敛区间在原文明确指开区间。"
+            },
+            {
+              "reviewId": "C09.17",
+              "conceptCode": "pgmath.c09-17",
+              "name": "幂级数和函数的连续性、逐项求导与逐项积分",
+              "kind": "property",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.18",
+              "conceptCode": "pgmath.c09-18",
+              "name": "简单幂级数和函数的求法",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "求和范围对应原文较简单幂级数在收敛区间内的和函数；不表示任意幂级数都要求求出闭式。"
+            },
+            {
+              "reviewId": "C09.19",
+              "conceptCode": "pgmath.c09-19",
+              "name": "由幂级数和函数求数项级数的和",
+              "kind": "application",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.20",
+              "conceptCode": "pgmath.c09-20",
+              "name": "函数展开为泰勒级数的充分必要条件",
+              "kind": "criterion",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "与三卷共同列出的泰勒定理、数一数三的常用麦克劳林公式区分。"
+            },
+            {
+              "reviewId": "C09.21",
+              "conceptCode": "pgmath.c09-21",
+              "name": "指数函数的麦克劳林展开",
+              "kind": "property",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "原文明确 e^x、sin x、cos x、ln(1+x)、(1+x)^α 五种标准展开；公式与收敛域须对照原PDF，不采用失真的文本公式。"
+            },
+            {
+              "reviewId": "C09.22",
+              "conceptCode": "pgmath.c09-22",
+              "name": "正弦函数的麦克劳林展开",
+              "kind": "property",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "原文明确 e^x、sin x、cos x、ln(1+x)、(1+x)^α 五种标准展开；公式与收敛域须对照原PDF，不采用失真的文本公式。"
+            },
+            {
+              "reviewId": "C09.23",
+              "conceptCode": "pgmath.c09-23",
+              "name": "余弦函数的麦克劳林展开",
+              "kind": "property",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "原文明确 e^x、sin x、cos x、ln(1+x)、(1+x)^α 五种标准展开；公式与收敛域须对照原PDF，不采用失真的文本公式。"
+            },
+            {
+              "reviewId": "C09.24",
+              "conceptCode": "pgmath.c09-24",
+              "name": "对数函数的麦克劳林展开",
+              "kind": "property",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "原文明确 e^x、sin x、cos x、ln(1+x)、(1+x)^α 五种标准展开；公式与收敛域须对照原PDF，不采用失真的文本公式。"
+            },
+            {
+              "reviewId": "C09.25",
+              "conceptCode": "pgmath.c09-25",
+              "name": "二项式函数的麦克劳林展开",
+              "kind": "property",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "原文明确 e^x、sin x、cos x、ln(1+x)、(1+x)^α 五种标准展开；公式与收敛域须对照原PDF，不采用失真的文本公式。"
+            },
+            {
+              "reviewId": "C09.26",
+              "conceptCode": "pgmath.c09-26",
+              "name": "简单函数的间接幂级数展开",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.27",
+              "conceptCode": "pgmath.c09-27",
+              "name": "傅里叶系数与傅里叶级数",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.28",
+              "conceptCode": "pgmath.c09-28",
+              "name": "狄利克雷收敛定理",
+              "kind": "criterion",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.29",
+              "conceptCode": "pgmath.c09-29",
+              "name": "区间[-l,l]上的傅里叶展开",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.30",
+              "conceptCode": "pgmath.c09-30",
+              "name": "区间[0,l]上的正弦级数展开",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.31",
+              "conceptCode": "pgmath.c09-31",
+              "name": "区间[0,l]上的余弦级数展开",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "C09.32",
+              "conceptCode": "pgmath.c09-32",
+              "name": "傅里叶级数的和函数",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "treeCode": "linear-algebra",
+      "label": "线性代数",
+      "chapters": [
+        {
+          "reviewId": "L01",
+          "name": "行列式",
+          "items": [
+            {
+              "reviewId": "L01.01",
+              "conceptCode": "pgmath.l01-01",
+              "name": "行列式的概念与基本计算",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L01.02",
+              "conceptCode": "pgmath.l01-02",
+              "name": "行列式的基本性质",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L01.03",
+              "conceptCode": "pgmath.l01-03",
+              "name": "余子式与代数余子式",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "属于按行（列）展开定理的必要概念细分；转载大纲未将余子式逐字单列。"
+            },
+            {
+              "reviewId": "L01.04",
+              "conceptCode": "pgmath.l01-04",
+              "name": "行列式按行（列）展开定理",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L01.05",
+              "conceptCode": "pgmath.l01-05",
+              "name": "利用性质与展开定理计算行列式",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "reviewId": "L02",
+          "name": "矩阵",
+          "items": [
+            {
+              "reviewId": "L02.01",
+              "conceptCode": "pgmath.l02-01",
+              "name": "矩阵的概念与矩阵相等",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "矩阵相等是矩阵概念的必要展开，不单独增加目录点。"
+            },
+            {
+              "reviewId": "L02.02",
+              "conceptCode": "pgmath.l02-02",
+              "name": "单位矩阵、数量矩阵与对角矩阵",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L02.03",
+              "conceptCode": "pgmath.l02-03",
+              "name": "三角矩阵及其性质",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L02.04",
+              "conceptCode": "pgmath.l02-04",
+              "name": "对称矩阵与反对称矩阵及其性质",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L02.05",
+              "conceptCode": "pgmath.l02-05",
+              "name": "矩阵的加法、数乘与线性运算",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L02.06",
+              "conceptCode": "pgmath.l02-06",
+              "name": "矩阵乘法及其运算规律",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L02.07",
+              "conceptCode": "pgmath.l02-07",
+              "name": "方阵的幂及其性质",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "方阵幂统一归属本章；以后利用对角化求幂只是本点的关联方法，不在其他章复制一个同名知识点。"
+            },
+            {
+              "reviewId": "L02.08",
+              "conceptCode": "pgmath.l02-08",
+              "name": "方阵乘积的行列式",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "此处处理 det(AB) 的矩阵运算性质，与 L01 的行列式计算方法区别。"
+            },
+            {
+              "reviewId": "L02.09",
+              "conceptCode": "pgmath.l02-09",
+              "name": "矩阵转置及其运算规律",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L02.10",
+              "conceptCode": "pgmath.l02-10",
+              "name": "逆矩阵的概念与性质",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L02.11",
+              "conceptCode": "pgmath.l02-11",
+              "name": "矩阵可逆的充分必要条件",
+              "kind": "criterion",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L02.12",
+              "conceptCode": "pgmath.l02-12",
+              "name": "伴随矩阵及伴随法求逆",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L02.13",
+              "conceptCode": "pgmath.l02-13",
+              "name": "矩阵的初等变换",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "2025 转载要求：数一理解；数二、数三了解。"
+            },
+            {
+              "reviewId": "L02.14",
+              "conceptCode": "pgmath.l02-14",
+              "name": "初等矩阵及其与初等变换的关系",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "矩阵表示是初等矩阵与初等变换的必要联系细分，未新增考纲外范围；数一、数二明确列性质，数三要求了解相关概念。"
+            },
+            {
+              "reviewId": "L02.15",
+              "conceptCode": "pgmath.l02-15",
+              "name": "矩阵等价",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L02.16",
+              "conceptCode": "pgmath.l02-16",
+              "name": "矩阵的秩",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "矩阵秩的概念统一归属本点；其他章仅引用其在向量组、方程组中的含义。"
+            },
+            {
+              "reviewId": "L02.17",
+              "conceptCode": "pgmath.l02-17",
+              "name": "用初等变换求矩阵的秩",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L02.18",
+              "conceptCode": "pgmath.l02-18",
+              "name": "用初等变换求逆矩阵",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L02.19",
+              "conceptCode": "pgmath.l02-19",
+              "name": "分块矩阵及其运算",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "2025 转载要求：数一、数二了解；数三掌握运算法则。"
+            }
+          ]
+        },
+        {
+          "reviewId": "L03",
+          "name": "向量组与向量空间",
+          "items": [
+            {
+              "reviewId": "L03.01",
+              "conceptCode": "pgmath.l03-01",
+              "name": "向量的概念与加法、数乘",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "数一、数二 n 维向量和线性组合要求覆盖基本运算；数三另有加法和数乘的明确要求。"
+            },
+            {
+              "reviewId": "L03.02",
+              "conceptCode": "pgmath.l03-02",
+              "name": "向量的线性组合与线性表示",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L03.03",
+              "conceptCode": "pgmath.l03-03",
+              "name": "向量组线性相关与线性无关的概念",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L03.04",
+              "conceptCode": "pgmath.l03-04",
+              "name": "线性相关与线性无关的基本性质",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L03.05",
+              "conceptCode": "pgmath.l03-05",
+              "name": "线性相关与线性无关的判别",
+              "kind": "criterion",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L03.06",
+              "conceptCode": "pgmath.l03-06",
+              "name": "极大线性无关组及其求法",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "概念和求法合并为一个认知单元，不将同一极大无关组复制为概念页与方法页。"
+            },
+            {
+              "reviewId": "L03.07",
+              "conceptCode": "pgmath.l03-07",
+              "name": "等价向量组",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "2025 转载要求：数一、数三理解；数二了解。"
+            },
+            {
+              "reviewId": "L03.08",
+              "conceptCode": "pgmath.l03-08",
+              "name": "向量组的秩及其与矩阵秩的关系",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "矩阵秩定义在 L02；本点只处理向量组秩与行、列向量组的联系。"
+            },
+            {
+              "reviewId": "L03.09",
+              "conceptCode": "pgmath.l03-09",
+              "name": "向量内积与向量正交",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "向量正交是内积与施密特方法的必要概念细分，不等同于数一独有的向量空间基变换。"
+            },
+            {
+              "reviewId": "L03.10",
+              "conceptCode": "pgmath.l03-10",
+              "name": "施密特正交规范化方法",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L03.11",
+              "conceptCode": "pgmath.l03-11",
+              "name": "正交矩阵及其性质",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "数一在向量章节列明，数二、数三在矩阵章节列明；统一放在本章内积与正交知识组，适用三考种，避免重复建点。"
+            },
+            {
+              "reviewId": "L03.12",
+              "conceptCode": "pgmath.l03-12",
+              "name": "规范正交基",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "数一向量章节明确列名；数二、数三的正交规范化方法未作为向量空间的基理论扩展。"
+            },
+            {
+              "reviewId": "L03.13",
+              "conceptCode": "pgmath.l03-13",
+              "name": "n 维向量空间与子空间",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "仅数一 2025 转载基线明确列名。"
+            },
+            {
+              "reviewId": "L03.14",
+              "conceptCode": "pgmath.l03-14",
+              "name": "向量空间的基与维数",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "仅数一 2025 转载基线明确列名。"
+            },
+            {
+              "reviewId": "L03.15",
+              "conceptCode": "pgmath.l03-15",
+              "name": "向量在给定基下的坐标",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "仅数一 2025 转载基线明确列名；坐标依赖基，不作为向量分量的同义点。"
+            },
+            {
+              "reviewId": "L03.16",
+              "conceptCode": "pgmath.l03-16",
+              "name": "基变换与坐标变换公式",
+              "kind": "property",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "仅数一 2025 转载基线明确列名；不因矩阵运算共用方法标为三考种。"
+            },
+            {
+              "reviewId": "L03.17",
+              "conceptCode": "pgmath.l03-17",
+              "name": "过渡矩阵的求法",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "仅数一 2025 转载基线明确列名。"
+            }
+          ]
+        },
+        {
+          "reviewId": "L04",
+          "name": "线性方程组",
+          "items": [
+            {
+              "reviewId": "L04.01",
+              "conceptCode": "pgmath.l04-01",
+              "name": "克拉默法则",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L04.02",
+              "conceptCode": "pgmath.l04-02",
+              "name": "齐次线性方程组有非零解的判定",
+              "kind": "criterion",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L04.03",
+              "conceptCode": "pgmath.l04-03",
+              "name": "非齐次线性方程组有解的判定",
+              "kind": "criterion",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L04.04",
+              "conceptCode": "pgmath.l04-04",
+              "name": "线性方程组解的基本性质",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "处理齐次解的线性组合以及非齐次解之差等性质；不重复建立矩阵秩知识点。"
+            },
+            {
+              "reviewId": "L04.05",
+              "conceptCode": "pgmath.l04-05",
+              "name": "齐次线性方程组的基础解系及其求法",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L04.06",
+              "conceptCode": "pgmath.l04-06",
+              "name": "齐次线性方程组的通解",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L04.07",
+              "conceptCode": "pgmath.l04-07",
+              "name": "齐次线性方程组的解空间",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "仅数一 2025 转载基线明确要求解空间概念；数二、数三仍包含基础解系与通解，但不据此扩展完整空间理论。"
+            },
+            {
+              "reviewId": "L04.08",
+              "conceptCode": "pgmath.l04-08",
+              "name": "非齐次线性方程组的解结构与通解",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L04.09",
+              "conceptCode": "pgmath.l04-09",
+              "name": "用初等行变换求解线性方程组",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "reviewId": "L05",
+          "name": "特征值、特征向量与矩阵相似",
+          "items": [
+            {
+              "reviewId": "L05.01",
+              "conceptCode": "pgmath.l05-01",
+              "name": "特征值与特征向量的概念",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L05.02",
+              "conceptCode": "pgmath.l05-02",
+              "name": "特征值与特征向量的求法",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L05.03",
+              "conceptCode": "pgmath.l05-03",
+              "name": "特征值与特征向量的基本性质",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "教材展开应包括不同特征值对应特征向量的关系及特征值与矩阵基本量的关系；此处不复制矩阵幂与秩的基础知识点。"
+            },
+            {
+              "reviewId": "L05.04",
+              "conceptCode": "pgmath.l05-04",
+              "name": "相似矩阵的概念与性质",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "包含相似变换与相似矩阵关系；数一考试内容还明确列出相似变换，数二/三由相似矩阵概念展开，不重复建点。"
+            },
+            {
+              "reviewId": "L05.05",
+              "conceptCode": "pgmath.l05-05",
+              "name": "矩阵可相似对角化的充分必要条件",
+              "kind": "criterion",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "2025 转载要求：数一、数二理解；数三了解。几何重数与代数重数的表述可在正文作为此判据的展开，不另凭关键词建点。"
+            },
+            {
+              "reviewId": "L05.06",
+              "conceptCode": "pgmath.l05-06",
+              "name": "将矩阵化为相似对角矩阵",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L05.07",
+              "conceptCode": "pgmath.l05-07",
+              "name": "实对称矩阵的特征值与特征向量性质",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L05.08",
+              "conceptCode": "pgmath.l05-08",
+              "name": "实对称矩阵的正交相似对角化",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "正交相似对角化是实对称矩阵相似对角矩阵与正交变换的必要方法细分；与 L06 的二次型正交变换在认知目标上不同。"
+            }
+          ]
+        },
+        {
+          "reviewId": "L06",
+          "name": "二次型",
+          "items": [
+            {
+              "reviewId": "L06.01",
+              "conceptCode": "pgmath.l06-01",
+              "name": "二次型及其矩阵表示",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L06.02",
+              "conceptCode": "pgmath.l06-02",
+              "name": "合同变换与合同矩阵",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L06.03",
+              "conceptCode": "pgmath.l06-03",
+              "name": "二次型的秩",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "引用对应对称矩阵的秩；不复制 L02 的矩阵秩定义和求法。"
+            },
+            {
+              "reviewId": "L06.04",
+              "conceptCode": "pgmath.l06-04",
+              "name": "二次型的标准形与规范形",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L06.05",
+              "conceptCode": "pgmath.l06-05",
+              "name": "惯性定理",
+              "kind": "property",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L06.06",
+              "conceptCode": "pgmath.l06-06",
+              "name": "用正交变换化二次型为标准形",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L06.07",
+              "conceptCode": "pgmath.l06-07",
+              "name": "用配方法化二次型为标准形",
+              "kind": "method",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L06.08",
+              "conceptCode": "pgmath.l06-08",
+              "name": "正定二次型与正定矩阵的概念",
+              "kind": "concept",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": ""
+            },
+            {
+              "reviewId": "L06.09",
+              "conceptCode": "pgmath.l06-09",
+              "name": "正定二次型与正定矩阵的判别",
+              "kind": "criterion",
+              "exams": [
+                1,
+                2,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "正文应归纳顺序主子式与特征值等常用判据；转载大纲只概括为判别法，不声称逐字列出每个判据。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "treeCode": "probability-statistics",
+      "label": "概率统计",
+      "chapters": [
+        {
+          "reviewId": "P01",
+          "name": "随机事件与概率",
+          "items": [
+            {
+              "reviewId": "P01.01",
+              "conceptCode": "pgmath.p01-01",
+              "name": "随机事件与样本空间",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "含基本事件、必然事件与不可能事件。"
+            },
+            {
+              "reviewId": "P01.02",
+              "conceptCode": "pgmath.p01-02",
+              "name": "事件的关系",
+              "kind": "property",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "包含、相等、互斥与对立；区别互斥和独立。"
+            },
+            {
+              "reviewId": "P01.03",
+              "conceptCode": "pgmath.p01-03",
+              "name": "事件的运算与运算律",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "和、积、差、补及德摩根律。"
+            },
+            {
+              "reviewId": "P01.04",
+              "conceptCode": "pgmath.p01-04",
+              "name": "完备事件组",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "为全概率与贝叶斯公式建立事件分解。"
+            },
+            {
+              "reviewId": "P01.05",
+              "conceptCode": "pgmath.p01-05",
+              "name": "概率的定义与基本性质",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "概率公理及由公理导出的单调性等性质。"
+            },
+            {
+              "reviewId": "P01.06",
+              "conceptCode": "pgmath.p01-06",
+              "name": "古典概型",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "等可能有限样本空间的计数与概率计算。"
+            },
+            {
+              "reviewId": "P01.07",
+              "conceptCode": "pgmath.p01-07",
+              "name": "几何概型",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "均匀落点下长度、面积或体积比的计算。"
+            },
+            {
+              "reviewId": "P01.08",
+              "conceptCode": "pgmath.p01-08",
+              "name": "条件概率",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "条件概率的定义、计算与条件样本空间。"
+            },
+            {
+              "reviewId": "P01.09",
+              "conceptCode": "pgmath.p01-09",
+              "name": "概率的加法与减法公式",
+              "kind": "property",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "包含容斥与差事件计算。"
+            },
+            {
+              "reviewId": "P01.10",
+              "conceptCode": "pgmath.p01-10",
+              "name": "概率的乘法公式",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "通过条件概率求积事件概率。"
+            },
+            {
+              "reviewId": "P01.11",
+              "conceptCode": "pgmath.p01-11",
+              "name": "全概率公式",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "以完备事件组分解概率。"
+            },
+            {
+              "reviewId": "P01.12",
+              "conceptCode": "pgmath.p01-12",
+              "name": "贝叶斯公式",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "由结果反推原因的条件概率。"
+            },
+            {
+              "reviewId": "P01.13",
+              "conceptCode": "pgmath.p01-13",
+              "name": "事件的独立性",
+              "kind": "criterion",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "独立性判定、独立事件的概率计算及多个事件的相互独立。"
+            },
+            {
+              "reviewId": "P01.14",
+              "conceptCode": "pgmath.p01-14",
+              "name": "独立重复试验",
+              "kind": "application",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "伯努利试验；与二项、几何分布保持概念联系而不重复正文。"
+            }
+          ]
+        },
+        {
+          "reviewId": "P02",
+          "name": "一维随机变量及其分布",
+          "items": [
+            {
+              "reviewId": "P02.01",
+              "conceptCode": "pgmath.p02-01",
+              "name": "随机变量",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "随机变量与随机事件的关系。"
+            },
+            {
+              "reviewId": "P02.02",
+              "conceptCode": "pgmath.p02-02",
+              "name": "分布函数及其性质",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "单调性、右连续性、边界极限与跳跃。"
+            },
+            {
+              "reviewId": "P02.03",
+              "conceptCode": "pgmath.p02-03",
+              "name": "利用分布函数计算概率",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "区间概率、端点取舍及离散跳跃的处理。"
+            },
+            {
+              "reviewId": "P02.04",
+              "conceptCode": "pgmath.p02-04",
+              "name": "离散型随机变量的概率分布",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "分布律的定义、非负性与归一性。"
+            },
+            {
+              "reviewId": "P02.05",
+              "conceptCode": "pgmath.p02-05",
+              "name": "0-1分布",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "别名：伯努利分布；不要另建重复知识身份。"
+            },
+            {
+              "reviewId": "P02.06",
+              "conceptCode": "pgmath.p02-06",
+              "name": "二项分布",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "二项分布的模型、参数与概率计算。"
+            },
+            {
+              "reviewId": "P02.07",
+              "conceptCode": "pgmath.p02-07",
+              "name": "几何分布",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "等待首次成功的次数；明确取值从1还是0起的参数约定。"
+            },
+            {
+              "reviewId": "P02.08",
+              "conceptCode": "pgmath.p02-08",
+              "name": "超几何分布",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "不放回抽样模型。"
+            },
+            {
+              "reviewId": "P02.09",
+              "conceptCode": "pgmath.p02-09",
+              "name": "泊松分布",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "泊松分布的概率计算与模型。"
+            },
+            {
+              "reviewId": "P02.10",
+              "conceptCode": "pgmath.p02-10",
+              "name": "泊松定理与二项分布的泊松近似",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "数一要求了解结论与条件，数三要求掌握结论与条件；范围相同，要求程度不同。"
+            },
+            {
+              "reviewId": "P02.11",
+              "conceptCode": "pgmath.p02-11",
+              "name": "连续型随机变量的概率密度",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "概率密度的定义、非负性、归一性及与分布函数的关系。"
+            },
+            {
+              "reviewId": "P02.12",
+              "conceptCode": "pgmath.p02-12",
+              "name": "均匀分布",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "区间均匀分布与概率计算。"
+            },
+            {
+              "reviewId": "P02.13",
+              "conceptCode": "pgmath.p02-13",
+              "name": "正态分布与标准化",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "含标准正态分布、对称性和标准化概率计算。"
+            },
+            {
+              "reviewId": "P02.14",
+              "conceptCode": "pgmath.p02-14",
+              "name": "指数分布",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "参数约定沿考纲E(λ)，λ>0。"
+            },
+            {
+              "reviewId": "P02.15",
+              "conceptCode": "pgmath.p02-15",
+              "name": "离散型随机变量函数的分布",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "对「随机变量函数的分布」按离散型情形做编辑细分。"
+            },
+            {
+              "reviewId": "P02.16",
+              "conceptCode": "pgmath.p02-16",
+              "name": "连续型随机变量函数的分布：分布函数法",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "对「随机变量函数的分布」按可独立讲解的方法做编辑细分；含非单调、分段及最值变换。"
+            },
+            {
+              "reviewId": "P02.17",
+              "conceptCode": "pgmath.p02-17",
+              "name": "连续型随机变量函数的分布：密度变换法",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "对「随机变量函数的分布」按可独立讲解的方法做编辑细分；明确单调性和多分支求和条件。"
+            }
+          ]
+        },
+        {
+          "reviewId": "P03",
+          "name": "多维随机变量及其分布",
+          "items": [
+            {
+              "reviewId": "P03.01",
+              "conceptCode": "pgmath.p03-01",
+              "name": "多维随机变量与联合分布函数",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "含联合分布函数的性质及由联合分布函数求边缘分布函数。"
+            },
+            {
+              "reviewId": "P03.02",
+              "conceptCode": "pgmath.p03-02",
+              "name": "二维离散型随机变量的联合分布",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "二维分布律的定义、性质与联合概率。"
+            },
+            {
+              "reviewId": "P03.03",
+              "conceptCode": "pgmath.p03-03",
+              "name": "二维离散型随机变量的边缘分布",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "通过求和由联合分布求边缘分布。"
+            },
+            {
+              "reviewId": "P03.04",
+              "conceptCode": "pgmath.p03-04",
+              "name": "二维离散型随机变量的条件分布",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "条件事件概率非零；区别边缘分布和条件分布。"
+            },
+            {
+              "reviewId": "P03.05",
+              "conceptCode": "pgmath.p03-05",
+              "name": "二维连续型随机变量的联合密度",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "联合密度、支持区域与归一化。"
+            },
+            {
+              "reviewId": "P03.06",
+              "conceptCode": "pgmath.p03-06",
+              "name": "二维连续型随机变量的边缘密度",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "通过积分由联合密度求边缘密度。"
+            },
+            {
+              "reviewId": "P03.07",
+              "conceptCode": "pgmath.p03-07",
+              "name": "二维连续型随机变量的条件密度",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "边缘密度非零处的条件密度。"
+            },
+            {
+              "reviewId": "P03.08",
+              "conceptCode": "pgmath.p03-08",
+              "name": "二维随机变量相关事件的概率",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "数三依据联合分布函数概念与性质做计算能力的编辑细分。"
+            },
+            {
+              "reviewId": "P03.09",
+              "conceptCode": "pgmath.p03-09",
+              "name": "随机变量的独立性",
+              "kind": "criterion",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "联合分布因式分解；离散与连续情形的判定。"
+            },
+            {
+              "reviewId": "P03.10",
+              "conceptCode": "pgmath.p03-10",
+              "name": "二维均匀分布",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "均匀支持区域与面积比概率。"
+            },
+            {
+              "reviewId": "P03.11",
+              "conceptCode": "pgmath.p03-11",
+              "name": "二维正态分布",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "数一了解概率密度，数三掌握二维正态分布；参数概率意义及独立性判定。"
+            },
+            {
+              "reviewId": "P03.12",
+              "conceptCode": "pgmath.p03-12",
+              "name": "二维随机变量函数的分布",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "离散枚举、分布函数法与支持域积分；含一离散一连续的情形。"
+            },
+            {
+              "reviewId": "P03.13",
+              "conceptCode": "pgmath.p03-13",
+              "name": "随机变量之和的分布与卷积",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "对「两个随机变量简单函数的分布」做编辑细分；卷积用于独立情形。"
+            },
+            {
+              "reviewId": "P03.14",
+              "conceptCode": "pgmath.p03-14",
+              "name": "最大值与最小值的分布",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "对「随机变量简单函数的分布」做编辑细分；区分独立与非独立。"
+            },
+            {
+              "reviewId": "P03.15",
+              "conceptCode": "pgmath.p03-15",
+              "name": "多个独立随机变量简单函数的分布",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "对多个独立变量的和、简单线性组合等求分布。"
+            }
+          ]
+        },
+        {
+          "reviewId": "P04",
+          "name": "随机变量的数字特征",
+          "items": [
+            {
+              "reviewId": "P04.01",
+              "conceptCode": "pgmath.p04-01",
+              "name": "数学期望",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "离散与连续情形的定义与存在条件。"
+            },
+            {
+              "reviewId": "P04.02",
+              "conceptCode": "pgmath.p04-02",
+              "name": "数学期望的基本性质",
+              "kind": "property",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "线性性、独立乘积及非负性等。"
+            },
+            {
+              "reviewId": "P04.03",
+              "conceptCode": "pgmath.p04-03",
+              "name": "随机变量函数的数学期望",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "一维与二维函数的期望直接计算。"
+            },
+            {
+              "reviewId": "P04.04",
+              "conceptCode": "pgmath.p04-04",
+              "name": "方差与标准差",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "定义与计算公式。"
+            },
+            {
+              "reviewId": "P04.05",
+              "conceptCode": "pgmath.p04-05",
+              "name": "方差的基本性质",
+              "kind": "property",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "线性变换、独立和与方差非负性。"
+            },
+            {
+              "reviewId": "P04.06",
+              "conceptCode": "pgmath.p04-06",
+              "name": "原点矩与中心矩",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "k阶矩、二阶原点矩与方差的关系。"
+            },
+            {
+              "reviewId": "P04.07",
+              "conceptCode": "pgmath.p04-07",
+              "name": "协方差及其性质",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "协方差定义与计算；含双线性。"
+            },
+            {
+              "reviewId": "P04.08",
+              "conceptCode": "pgmath.p04-08",
+              "name": "相关系数及其性质",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "相关系数的范围、线性相关与线性变换性质。"
+            },
+            {
+              "reviewId": "P04.09",
+              "conceptCode": "pgmath.p04-09",
+              "name": "独立性与不相关性的关系",
+              "kind": "criterion",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "独立通常推出不相关；不相关一般不推出独立，二维正态情形单列条件。"
+            },
+            {
+              "reviewId": "P04.10",
+              "conceptCode": "pgmath.p04-10",
+              "name": "常用分布的期望与方差",
+              "kind": "property",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "与P02常用分布共用讲解引用；不以「八大分布」创建另一套知识身份。"
+            },
+            {
+              "reviewId": "P04.11",
+              "conceptCode": "pgmath.p04-11",
+              "name": "线性组合的方差与协方差",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "对数字特征性质按常用计算任务做编辑细分；包含交叉协方差项。"
+            }
+          ]
+        },
+        {
+          "reviewId": "P05",
+          "name": "大数定律与中心极限定理",
+          "items": [
+            {
+              "reviewId": "P05.01",
+              "conceptCode": "pgmath.p05-01",
+              "name": "切比雪夫不等式",
+              "kind": "property",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "数一原纲列在本章、数三原纲列在数字特征章；统一身份放本章。"
+            },
+            {
+              "reviewId": "P05.02",
+              "conceptCode": "pgmath.p05-02",
+              "name": "切比雪夫大数定律",
+              "kind": "property",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "需讲清条件；依概率收敛作为定理理解的基础内容，不凭本次纲文推定为独立考纲细目。"
+            },
+            {
+              "reviewId": "P05.03",
+              "conceptCode": "pgmath.p05-03",
+              "name": "伯努利大数定律",
+              "kind": "property",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "频率依概率收敛于概率。"
+            },
+            {
+              "reviewId": "P05.04",
+              "conceptCode": "pgmath.p05-04",
+              "name": "辛钦大数定律",
+              "kind": "property",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "独立同分布与期望存在等适用条件。"
+            },
+            {
+              "reviewId": "P05.05",
+              "conceptCode": "pgmath.p05-05",
+              "name": "棣莫弗—拉普拉斯中心极限定理",
+              "kind": "property",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "二项分布的正态极限。"
+            },
+            {
+              "reviewId": "P05.06",
+              "conceptCode": "pgmath.p05-06",
+              "name": "列维—林德伯格中心极限定理",
+              "kind": "property",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "按考纲指独立同分布序列的中心极限定理；不要扩成一般林德伯格条件定理。"
+            },
+            {
+              "reviewId": "P05.07",
+              "conceptCode": "pgmath.p05-07",
+              "name": "中心极限定理的概率近似计算",
+              "kind": "application",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "数三明确要求近似计算；数一作为定理内容应用的编辑细分，实际细目程度应据当前年度正文再次核验。"
+            }
+          ]
+        },
+        {
+          "reviewId": "P06",
+          "name": "样本与抽样分布",
+          "items": [
+            {
+              "reviewId": "P06.01",
+              "conceptCode": "pgmath.p06-01",
+              "name": "总体与个体",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "总体分布、总体参数与个体。"
+            },
+            {
+              "reviewId": "P06.02",
+              "conceptCode": "pgmath.p06-02",
+              "name": "简单随机样本",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "独立同分布样本与样本观测值。"
+            },
+            {
+              "reviewId": "P06.03",
+              "conceptCode": "pgmath.p06-03",
+              "name": "统计量",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "统计量不得含未知参数；区别统计量、估计量和估计值。"
+            },
+            {
+              "reviewId": "P06.04",
+              "conceptCode": "pgmath.p06-04",
+              "name": "样本均值",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "样本均值的定义及常用数字特征。"
+            },
+            {
+              "reviewId": "P06.05",
+              "conceptCode": "pgmath.p06-05",
+              "name": "样本方差",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "本纲样本方差采用分母n−1；区别分母n的二阶样本中心矩。"
+            },
+            {
+              "reviewId": "P06.06",
+              "conceptCode": "pgmath.p06-06",
+              "name": "样本矩",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "样本原点矩与样本中心矩。"
+            },
+            {
+              "reviewId": "P06.07",
+              "conceptCode": "pgmath.p06-07",
+              "name": "经验分布函数",
+              "kind": "concept",
+              "exams": [
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "2025数学三明确列出，数学一未列；不能由数理统计整章继承而同时标数一。"
+            },
+            {
+              "reviewId": "P06.08",
+              "conceptCode": "pgmath.p06-08",
+              "name": "χ²分布",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "定义、典型构造及基本性质。"
+            },
+            {
+              "reviewId": "P06.09",
+              "conceptCode": "pgmath.p06-09",
+              "name": "t分布",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "定义、典型构造及基本性质。"
+            },
+            {
+              "reviewId": "P06.10",
+              "conceptCode": "pgmath.p06-10",
+              "name": "F分布",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "定义、典型构造及基本性质。"
+            },
+            {
+              "reviewId": "P06.11",
+              "conceptCode": "pgmath.p06-11",
+              "name": "上侧α分位数与查表",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "含标准正态、χ²、t、F分布的分位数。"
+            },
+            {
+              "reviewId": "P06.12",
+              "conceptCode": "pgmath.p06-12",
+              "name": "单个正态总体的抽样分布",
+              "kind": "property",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "样本均值、样本方差及常用标准化统计量；数三原纲另明确样本矩的抽样分布。"
+            },
+            {
+              "reviewId": "P06.13",
+              "conceptCode": "pgmath.p06-13",
+              "name": "两个正态总体的常用抽样分布",
+              "kind": "property",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "对数一「正态总体的常用抽样分布」按两总体区间估计与检验所需统计量做编辑细分；数三纲文未明确列双总体专题，暂不标数三。F分布典型构造仍归P06.10。"
+            }
+          ]
+        },
+        {
+          "reviewId": "P07",
+          "name": "参数估计",
+          "items": [
+            {
+              "reviewId": "P07.01",
+              "conceptCode": "pgmath.p07-01",
+              "name": "点估计、估计量与估计值",
+              "kind": "concept",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "点估计与区间估计分开。"
+            },
+            {
+              "reviewId": "P07.02",
+              "conceptCode": "pgmath.p07-02",
+              "name": "矩估计法",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "覆盖一阶矩与二阶矩估计；不机械拆成两个重复题单。"
+            },
+            {
+              "reviewId": "P07.03",
+              "conceptCode": "pgmath.p07-03",
+              "name": "最大似然估计法",
+              "kind": "method",
+              "exams": [
+                1,
+                3
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "似然函数、对数似然及参数支持域检查。"
+            },
+            {
+              "reviewId": "P07.04",
+              "conceptCode": "pgmath.p07-04",
+              "name": "估计量的无偏性",
+              "kind": "criterion",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "数一了解并会验证无偏性。"
+            },
+            {
+              "reviewId": "P07.05",
+              "conceptCode": "pgmath.p07-05",
+              "name": "估计量的有效性",
+              "kind": "criterion",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "最小方差性；数一要求了解概念。"
+            },
+            {
+              "reviewId": "P07.06",
+              "conceptCode": "pgmath.p07-06",
+              "name": "估计量的一致性（相合性）",
+              "kind": "criterion",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "数一要求了解概念。"
+            },
+            {
+              "reviewId": "P07.07",
+              "conceptCode": "pgmath.p07-07",
+              "name": "区间估计与置信区间",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "置信水平、置信限及区间含义。"
+            },
+            {
+              "reviewId": "P07.08",
+              "conceptCode": "pgmath.p07-08",
+              "name": "单个正态总体均值的置信区间",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "含总体方差已知或未知的不同条件。"
+            },
+            {
+              "reviewId": "P07.09",
+              "conceptCode": "pgmath.p07-09",
+              "name": "单个正态总体方差的置信区间",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "基于χ²抽样分布。"
+            },
+            {
+              "reviewId": "P07.10",
+              "conceptCode": "pgmath.p07-10",
+              "name": "两个正态总体均值差的置信区间",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "按总体方差条件选择统计量。"
+            },
+            {
+              "reviewId": "P07.11",
+              "conceptCode": "pgmath.p07-11",
+              "name": "两个正态总体方差比的置信区间",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "基于F抽样分布。"
+            }
+          ]
+        },
+        {
+          "reviewId": "P08",
+          "name": "假设检验",
+          "items": [
+            {
+              "reviewId": "P08.01",
+              "conceptCode": "pgmath.p08-01",
+              "name": "显著性检验的基本思想",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "原假设、备择假设与显著性水平。"
+            },
+            {
+              "reviewId": "P08.02",
+              "conceptCode": "pgmath.p08-02",
+              "name": "假设检验的基本步骤",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "提出假设、选统计量、确定拒绝域并作出结论；单侧/双侧作为本点内容。"
+            },
+            {
+              "reviewId": "P08.03",
+              "conceptCode": "pgmath.p08-03",
+              "name": "假设检验的两类错误",
+              "kind": "concept",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "第一类与第二类错误。"
+            },
+            {
+              "reviewId": "P08.04",
+              "conceptCode": "pgmath.p08-04",
+              "name": "单个正态总体均值的假设检验",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "按总体方差已知或未知选择统计量。"
+            },
+            {
+              "reviewId": "P08.05",
+              "conceptCode": "pgmath.p08-05",
+              "name": "单个正态总体方差的假设检验",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "基于χ²统计量。"
+            },
+            {
+              "reviewId": "P08.06",
+              "conceptCode": "pgmath.p08-06",
+              "name": "两个正态总体均值的假设检验",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "比较两个总体均值；注明样本独立和方差条件。"
+            },
+            {
+              "reviewId": "P08.07",
+              "conceptCode": "pgmath.p08-07",
+              "name": "两个正态总体方差的假设检验",
+              "kind": "method",
+              "exams": [
+                1
+              ],
+              "scopeStatus": "verified_2025_baseline",
+              "notes": "比较两个总体方差；基于F统计量。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "explanations": {},
+  "explanation_status": "not_captured"
+}

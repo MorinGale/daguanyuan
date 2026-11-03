@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# 本地学习数据（运行时生成，含个人学习记录）
+user-data/*.sqlite3
+
+# 日志
+server.log
+*.log
+
+# 逆向分析证据与报告（不随仓库分发）
+大观园-逆向分析报告.md
+README-镜像使用说明.md
+raw/
+backups/

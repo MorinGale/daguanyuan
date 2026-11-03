@@ -1,0 +1,13 @@
+User-Agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /examples/
+Disallow: /login
+Disallow: /math/
+Disallow: /oauth/
+Disallow: /settings
+Disallow: /suggestions
+
+Host: http://127.0.0.1:3100/
+Sitemap: http://127.0.0.1:3100/sitemap.xml
